@@ -2,7 +2,7 @@
 
 ## Dashboard Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 This Excel-based SHEQ Dashboard provides management with visibility into Safety, Health, Environment and Quality performance across the organization.
 
@@ -10,7 +10,7 @@ This Excel-based SHEQ Dashboard provides management with visibility into Safety,
 
 ## Safety Information Dashboard
 
-![Safety Information Dashboard](images/safety_info_dashboard.png)
+![Safety Information Dashboard](safety_info_dashboard.png)
 
 Tracks:
 - Lost Time Injuries (LTI)
@@ -23,7 +23,7 @@ Tracks:
 
 ## Safety Incident Dashboard
 
-![Safety Incident Dashboard](images/safety_incident_info_dashboard.png)
+![Safety Incident Dashboard](safety_incident_info_dashboard.png)
 
 Tracks:
 - Incident Trends
@@ -35,7 +35,7 @@ Tracks:
 
 ## Safety Audit Dashboard
 
-![Safety Audit Dashboard](images/safety_Audit_dashboard.png)
+![Safety Audit Dashboard](safety_Audit_dashboard.png)
 
 Tracks:
 - Audit Findings
@@ -47,7 +47,7 @@ Tracks:
 
 ## Alcohol Testing Dashboard
 
-![Alcohol Testing Dashboard](images/safety_alcohol_dashboard.png)
+![Alcohol Testing Dashboard](safety_alcohol_dashboard.png)
 
 Tracks:
 - Positive Cases
@@ -58,7 +58,7 @@ Tracks:
 
 ## Quality Dashboard
 
-![Quality Dashboard](images/quality_dashboard.png)
+![Quality Dashboard](quality_dashboard.png)
 
 Tracks:
 - Product Quality Performance
@@ -69,7 +69,7 @@ Tracks:
 
 ## Top 5 Quality Issues Dashboard
 
-![Top 5 Quality Issues](images/quality_top_5_dashboard.png)
+![Top 5 Quality Issues](quality_top_5_dashboard.png)
 
 Tracks:
 - Top Returned Products
@@ -80,7 +80,7 @@ Tracks:
 
 ## Customer Complaints Dashboard
 
-![Customer Complaints Dashboard](images/quality_customer_complaints_dashboard.png)
+![Customer Complaints Dashboard](quality_customer_complaints_dashboard.png)
 
 Tracks:
 - Customer Complaints
