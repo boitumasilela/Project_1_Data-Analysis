@@ -22,7 +22,7 @@ Tracks:
 
 ## Safety Incident Dashboard
 
-![Safety Incident Dashboard](safety_incident_info_dashboard.png)
+![Safety Incident Dashboard](safety_incident_info_dashboard.png) 
 
 Tracks:
 - Incident Trends
