@@ -68,7 +68,7 @@ Tracks:
 
 ## Top 5 Quality Issues Dashboard
 
-![Top 5 Quality Issues](quality_top_5_dashboard.PNG)
+![Top 5 Quality Issues](quality_top 5_dashboard.PNG)
 
 Tracks:
 - Top Returned Products
