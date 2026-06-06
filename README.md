@@ -34,7 +34,7 @@ Tracks:
 
 ## Safety Audit Dashboard
 
-![Safety Audit Dashboard](safety_Audit_dashboard.png)
+![Safety Audit Dashboard](safety_Audit_dashboard.PNG)
 
 Tracks:
 - Audit Findings
@@ -46,7 +46,7 @@ Tracks:
 
 ## Alcohol Testing Dashboard
 
-![Alcohol Testing Dashboard](safety_alcohol_dashboard.png)
+![Alcohol Testing Dashboard](safety_alcohol_dashboard.PNG)
 
 Tracks:
 - Positive Cases
@@ -68,7 +68,7 @@ Tracks:
 
 ## Top 5 Quality Issues Dashboard
 
-![Top 5 Quality Issues](quality_top_5_dashboard.png)
+![Top 5 Quality Issues](quality_top_5_dashboard.PNG)
 
 Tracks:
 - Top Returned Products
@@ -79,7 +79,7 @@ Tracks:
 
 ## Customer Complaints Dashboard
 
-![Customer Complaints Dashboard](quality_customer_complaints_dashboard.png)
+![Customer Complaints Dashboard](quality_customer_complaints_dashboard.PNG)
 
 Tracks:
 - Customer Complaints
