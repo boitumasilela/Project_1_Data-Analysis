@@ -2,7 +2,6 @@
 
 ## Dashboard Overview
 
-![Dashboard Overview](dashboard_overview.png)
 
 This Excel-based SHEQ Dashboard provides management with visibility into Safety, Health, Environment and Quality performance across the organization.
 
@@ -10,7 +9,7 @@ This Excel-based SHEQ Dashboard provides management with visibility into Safety,
 
 ## Safety Information Dashboard
 
-![Safety Information Dashboard](safety_info_dashboard.png)
+![Safety Information Dashboard](safety_info_dashboard.PNG)
 
 Tracks:
 - Lost Time Injuries (LTI)
